@@ -34,3 +34,4 @@ couple of weeks then. New York time is always what counts.
 
 | date | ticker | setup | entry | stop | target | shares | exit | result £ | followed the rules? | note |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-24 | - | - | - | - | - | - | - | £0 | yes | No trade taken. Scans at 9:51 and 10:16 AM ET: 19 then 39 of 69 candidate charts broke their opening range together (a broad market move). No watchlist picked yet. |
